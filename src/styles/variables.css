@@ -1,0 +1,28 @@
+:root {
+  --color-primary: #10b981;
+  --color-accent: #059669;
+  --color-text: #1f2937;
+  --color-bg: #ffffff;
+  --color-light-bg: #f8f9fa;
+  --color-border: #e5e7eb;
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+  --color-info: #3b82f6;
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Lato', sans-serif;
+  --spacing-small: 8px;
+  --spacing-medium: 16px;
+  --spacing-large: 24px;
+  --spacing-xl: 40px;
+  --spacing-2xl: 60px;
+  --shadow-small: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --shadow-medium: 0 5px 20px rgba(0, 0, 0, 0.15);
+  --shadow-large: 0 10px 40px rgba(0, 0, 0, 0.2);
+  --border-radius-small: 8px;
+  --border-radius-medium: 12px;
+  --border-radius-large: 20px;
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}

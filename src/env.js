@@ -1,0 +1,3 @@
+// Auto-generated environment variables
+export const VITE_SUPABASE_URL = "";
+export const VITE_SUPABASE_ANON_KEY = "";
