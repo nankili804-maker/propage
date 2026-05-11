@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section">
-          <div className="footer-logo">CareHub</div>
+          <div className="footer-logo">WendyCare</div>
           <p>Providing compassionate, professional home care services for families who care.</p>
           <p>Trusted by families across the region since our founding.</p>
         </div>
@@ -30,12 +30,12 @@ export default function Footer() {
         <div className="footer-section">
           <h3>Contact Us</h3>
           <p>📞 (555) 123-4567</p>
-          <p>📧 hello@carehub.local</p>
+          <p>📧 hello@wendycare.local</p>
           <p>📍 Available 24/7 for your needs</p>
         </div>
       </div>
       <div className="footer-bottom">
-        <p>&copy; 2024 CareHub Home Care Agency. All rights reserved. Made with ❤️ by Jacqueline, Anna, Lisa, and Wendy.</p>
+        <p>&copy; 2024 WendyCare Home Care Agency. All rights reserved. Made with ❤️ by Jacqueline, Anna, Lisa, and Wendy.</p>
       </div>
     </footer>
   );

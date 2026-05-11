@@ -5,7 +5,7 @@ export default function Header({ scrollPosition }) {
     <header className={`header ${scrollPosition > 50 ? 'scrolled' : ''}`}>
       <div className="header-content">
         <a href="#" className="header-logo">
-          Care<span>Hub</span>
+          Wendy<span>Care</span>
         </a>
         <nav>
           <ul className="header-nav">
